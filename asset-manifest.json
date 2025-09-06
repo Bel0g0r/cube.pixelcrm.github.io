@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cube.pixelcrm.github.io/static/css/main.4c4652a2.css",
-    "main.js": "/cube.pixelcrm.github.io/static/js/main.837d3b83.js",
-    "static/js/356.3487c669.js": "/cube.pixelcrm.github.io/static/js/356.3487c669.js",
+    "main.js": "/cube.pixelcrm.github.io/static/js/main.84f1a2b3.js",
+    "static/js/747.a94b8200.js": "/cube.pixelcrm.github.io/static/js/747.a94b8200.js",
     "static/media/MaterialCommunityIcons.ttf": "/cube.pixelcrm.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/cube.pixelcrm.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/MaterialIcons.ttf": "/cube.pixelcrm.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
@@ -30,12 +30,12 @@
     "favicon-16.png": "/cube.pixelcrm.github.io/favicon-16.png",
     "serve.json": "/cube.pixelcrm.github.io/serve.json",
     "main.4c4652a2.css.map": "/cube.pixelcrm.github.io/static/css/main.4c4652a2.css.map",
-    "main.837d3b83.js.map": "/cube.pixelcrm.github.io/static/js/main.837d3b83.js.map",
-    "356.3487c669.js.map": "/cube.pixelcrm.github.io/static/js/356.3487c669.js.map"
+    "main.84f1a2b3.js.map": "/cube.pixelcrm.github.io/static/js/main.84f1a2b3.js.map",
+    "747.a94b8200.js.map": "/cube.pixelcrm.github.io/static/js/747.a94b8200.js.map"
   },
   "entrypoints": [
-    "static/js/356.3487c669.js",
+    "static/js/747.a94b8200.js",
     "static/css/main.4c4652a2.css",
-    "static/js/main.837d3b83.js"
+    "static/js/main.84f1a2b3.js"
   ]
 }
